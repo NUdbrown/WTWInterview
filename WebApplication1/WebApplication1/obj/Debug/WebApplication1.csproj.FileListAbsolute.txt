@@ -15,6 +15,7 @@ C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplicatio
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1\bin\WebApplication1.dll
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1\bin\WebApplication1.pdb
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1\bin\ClassLibrary1.dll
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1\bin\EntityFramework.dll
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
@@ -48,6 +49,7 @@ C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplicatio
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1\bin\ClassLibrary1.pdb
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml

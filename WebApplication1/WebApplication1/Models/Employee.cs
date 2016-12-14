@@ -23,10 +23,10 @@ namespace WebApplication1.Models
             return "Doing my job as best as I can!";
         }
 
-        public List<Employee> ShowAllEmployees()
+        public List<IPerson> ShowAll()
         {
             var theList = new List<Employee> {new Employee("Millie", 34, "Engineer"), new Employee("Mike", 45, "Relations Manager"), new Employee("Lou", 19, "Customer Service")};
-            return theList;
+            return new List<IPerson>(theList);
         } 
     }
 }

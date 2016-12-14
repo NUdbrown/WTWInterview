@@ -22,10 +22,10 @@ namespace WebApplication1.Models
             return "I am a customer! Need good service!";
         }
 
-        public List<Customer> ShowAllCustomers()
+        public List<IPerson> ShowAll()
         {
             var theList = new List<Customer> {new Customer("Jim", 35), new Customer("Sally", 18), new Customer("Jesse", 20)};
-            return theList;
+            return new List<IPerson>(theList);
         }
     }
 }

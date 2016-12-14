@@ -33,6 +33,7 @@ C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplicatio
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1.Tests\bin\Debug\EntityFramework.dll
+C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1.Tests\bin\Debug\ClassLibrary1.dll
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1.Tests\bin\Debug\WebApplication1.pdb
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1.Tests\bin\Debug\Newtonsoft.Json.xml
@@ -50,6 +51,7 @@ C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplicatio
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1.Tests\bin\Debug\EntityFramework.xml
+C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1.Tests\bin\Debug\ClassLibrary1.pdb
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1.Tests\obj\Debug\WebApplication1.Tests.csprojResolveAssemblyReference.cache
 C:\Users\dbrown\Documents\Visual Studio 2015\Projects\WTWInterview\WebApplication1\WebApplication1.Tests\obj\Debug\WebApplication1.Tests.dll

@@ -8,27 +8,22 @@ namespace ClassLibrary1
 {
     public class Container
     {
-        private readonly Dictionary<Type, Func<object>> _registrations = new Dictionary<Type, Func<object>>();
+    
+        private static Resolver _resolverInstance = null;
 
-        public void Register<TService, TImpl>() where TImpl : TService
+        public static void Register<TService, TImpl>()
         {
-            this._registrations.Add(typeof(TService), () => this.GetInstance(typeof(TImpl)));
+            GetInstance().Register<TService, TImpl>();
         }
 
-        public object GetInstance(Type serviceType)
+        public static T Resolve<T>()
         {
-            Func<object> creator;
-            if (this._registrations.TryGetValue(serviceType, out creator)) return creator();
-            else if (!serviceType.IsAbstract) return this.CreateInstance(serviceType);
-            else throw new InvalidOperationException("No registration for " + serviceType);
+            return GetInstance().Resolve<T>();
         }
 
-        private object CreateInstance(Type implementationType)
+        private static Resolver GetInstance()
         {
-            var ctor = implementationType.GetConstructors().Single();
-            var parameterTypes = ctor.GetParameters().Select(p => p.ParameterType);
-            var dependencies = parameterTypes.Select(t => this.GetInstance(t)).ToArray();
-            return Activator.CreateInstance(implementationType, dependencies);
+            return _resolverInstance ?? (_resolverInstance = new Resolver());
         }
     }
 
